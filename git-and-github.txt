@@ -1,0 +1,5 @@
+You can use git to manage versioning of source code
+
+You can use git to organize source
+
+You can use git to quickly undo changes
