@@ -3,3 +3,9 @@ You can use git to manage versioning of source code
 You can use git to organize source
 
 You can use git to quickly undo changes
+
+Github is the largest host of git repos.
+
+Github allows you to host websites for free under a github.io url.
+
+Github now requires secure personal access tokens in place of passwords.
